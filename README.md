@@ -95,7 +95,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 Example Input and Output
 ##### Input:
 ![Screenshot 2025-05-19 185508](https://github.com/user-attachments/assets/2dea20b3-8d59-4714-97ac-3880edf59e83)
-
+##### Output:
 there is a tiger walking on a log in the grass
 
 ### RESULT:
